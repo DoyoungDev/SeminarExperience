@@ -14,3 +14,4 @@
 ## TIL
 
 - [맥북 적응기](https://www.invaiz.com/blog/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=12577409&t=board)
+- - [본격 macOS에 개발 환경 구축하기](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
