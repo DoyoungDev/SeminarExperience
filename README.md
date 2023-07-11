@@ -1,5 +1,5 @@
 <div align="center">
-        <img width="75%" src="https://github.com/pdy1207/react-ecommerce/assets/110442250/28106582-0915-40f9-9f0a-25abb723dba5">
+        <img width="100%" src="https://github.com/pdy1207/react-ecommerce/assets/110442250/28106582-0915-40f9-9f0a-25abb723dba5">
 </div>
 
 
